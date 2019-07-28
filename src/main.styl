@@ -1,0 +1,46 @@
+back-color = #283132
+header-color = #743525
+text-color = #F8F8F8
+
+* {
+  margin 0
+  padding 0
+}
+
+html, body
+  height 100%
+  background-color back-color
+  font-family "Helvetica Neue",Helvetica,Arial
+
+header
+  display flex
+  justify-content center
+  height 60px
+  width 100%
+  font-size 26px
+  line-height @height
+  background-color header-color
+  color text-color
+
+  span
+    width 25%
+    text-align center
+    font-weight 200
+
+.main
+  display flex
+  justify-content center
+  align-items center
+  width 100%
+  height 90%
+
+.translator
+  display flex
+  justify-content space-around
+  align-items center
+  width 95%
+  height 90%
+
+.editor
+  width 48%
+  height 100%
