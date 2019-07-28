@@ -1,0 +1,20 @@
+{
+  "name": "GLSLSandbox2Shadertoy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasari/GLSLSandbox2Shadertoy.git"
+  },
+  "keywords": [],
+  "author": "kasari <kasari3939@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasari/GLSLSandbox2Shadertoy/issues"
+  },
+  "homepage": "https://github.com/kasari/GLSLSandbox2Shadertoy#readme"
+}
