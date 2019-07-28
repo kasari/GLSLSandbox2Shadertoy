@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kasari/GLSLSandbox2Shadertoy/issues"
   },
-  "homepage": "https://github.com/kasari/GLSLSandbox2Shadertoy#readme"
+  "homepage": "https://github.com/kasari/GLSLSandbox2Shadertoy#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
